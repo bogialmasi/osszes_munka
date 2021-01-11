@@ -2,7 +2,7 @@ body{
     font-family:'Roboto',sans-serif;
     background-image: url(hatterkep.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
 }
 
 .szoveg{
